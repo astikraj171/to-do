@@ -1,4 +1,4 @@
-function TODOHero({todo_completed}, {total_todos}){
+function TODOHero({todo_completed ,total_todos}){
     return(
         <section>
             <div>
